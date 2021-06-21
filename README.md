@@ -1,1 +1,1 @@
-# todo-app
+# ec-app
